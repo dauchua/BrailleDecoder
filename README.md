@@ -1,6 +1,6 @@
 #Braille Decoder
 
-Input is : 
+Input is : <br />
 O. O. O. O. O. .O O. O. O. OO <br />
 OO .O O. O. .O OO .O OO O. .O <br />
 .. .. O. O. O. .O O. O. O. ..
